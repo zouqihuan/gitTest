@@ -1,8 +1,4 @@
 How are you?
-<<<<<<< HEAD
-I am fine,thank you.
-=======
 I am fine,thank you.
 What is your name?
 My name is zouqihuan.
->>>>>>> 44e007e... zou
